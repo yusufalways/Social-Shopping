@@ -1,0 +1,35 @@
+{
+    "name": "social_shopping",
+    "short_name": "social_shopping",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "* Vendor Registration  * Store Management Dashboard for Sellers * Uploading Categories From Web Admin Panel * Uploading Ad Banners From Web Admin Panel * Approving and Rejecting New Vendors/ Buyers * Approving New Products * Approving New Orders * Publishing And Unpublishing  Products * Editing Product Quantity * Editing Products * Customer Dashboard, Registration & Login * Product/Service Category Management,  * Ad Mob integration",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
